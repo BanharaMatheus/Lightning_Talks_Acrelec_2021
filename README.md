@@ -1,20 +1,15 @@
-# Lightning_Talks_Acrelec_2021
+# Introdução
+Código usado na apresentação do Lightning Talks Acrelec 2021
 
-# Introduction
-Automation of POS API endurance/stress tests.
-
-## Setting environment up
-1.Clone the repository on your local machine:
+## Setando o ambiente
+1.Clone o repositório na sua máquina local:
     ````
-    git clone https://acrelecamericas.visualstudio.com/QA/_git/POS
+    git clone https://github.com/BanharaMatheus/Lightning_Talks_Acrelec_2021
     ````
     
-2.Deploy virtualenv in your machine, based on Python 3.8.
+2.Crie um ambiente virtual, baseado em Python 3.7.
    
-3.Run the command:
+3.Rode o comando:
     ````
      pip install -r requirements.txt
-    ```` to install all the dependecies of the project.
-
-4.If you are not in the office, you must activate the VPN, so the test script will be able to communicate with the POS and KDS.
-    
+    ```` Para instalar todas as dependências do projeto.
